@@ -63,5 +63,8 @@ p{
             color: var(--accent-orange);
         }
     }
+    footer{
+        text-align: center;
+    }
 }
 }
